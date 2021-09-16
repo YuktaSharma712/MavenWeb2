@@ -25,6 +25,6 @@ public class MyCalculatorTest {
 	@Test
 	public void test4()
 	{
-		assertEquals(0,  new MyCalculator().getSum(5,5));
+		assertEquals(10,  new MyCalculator().getSum(5,5));
 	}
 }
